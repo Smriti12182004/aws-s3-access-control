@@ -375,7 +375,7 @@ Smriti user successfully uploaded a file inside their own folder.
 
 Smriti user was denied write access while uploading to Palak's folder.
 
-![Smriti Access Denied](screenshots/09_smriti_access_denied.png)
+![Smriti Access Denied](screenshots/9_smriti_access_denied.png)
 
 ---
 
